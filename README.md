@@ -1,0 +1,2 @@
+# Full-Stack-Letter-Editor-with-Google-Drive-Integration
+A web application that allows users to authenticate via Google OAuth, create &amp; edit letters, and save them to Google Drive in Google Docs format. Built with React, Flask, MySQL, Firebase Auth, and Google Drive API. Features include draft saving, editing, and retrieval from Google Drive. Fully deployed on Netlify/Vercel &amp; Render/Heroku
